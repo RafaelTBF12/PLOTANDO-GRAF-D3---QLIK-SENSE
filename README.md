@@ -69,4 +69,4 @@ Agora que temos todos os nossos arquivos D3 e a área de testes pronta, no próx
 ### 4 - Personalizando o D3 com Dados do Qlik
 
    <p align="center">
-   <img height="180" right="110" src= "FINAL.jpeg"> 
+   <img height="180" right="110" src= "FINAL 1.jpeg"> 
