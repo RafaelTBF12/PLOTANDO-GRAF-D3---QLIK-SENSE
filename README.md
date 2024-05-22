@@ -58,10 +58,15 @@ Agora que temos todos os nossos arquivos D3 e a área de testes pronta, no próx
 ### 3 - Importando a Visualização D3 no Qlik Sense
 
    <p align="center">
-   <img src= "HTML D3.jpeg">  
+   <img height="180" right="110" src= "EXPORT D3.jpeg">  <img height="180" right="110" src= "HTML D3.jpeg">
+      
+
+### 6 - Criando Configurações Personalizadas Editando o CSS com Javascript
+
+   <p align="center">
+   <img height="180" right="110" src= "PERSONALIZAR.jpeg"> 
 
 ### 4 - Personalizando o D3 com Dados do Qlik
 
-### 5 - Desenhando um Segundo Indicador como Linha de Referência
-
-### 6 - Criando Configurações Personalizadas Editando o CSS com Javascript
+   <p align="center">
+   <img height="180" right="110" src= "FINAL.jpeg"> 
