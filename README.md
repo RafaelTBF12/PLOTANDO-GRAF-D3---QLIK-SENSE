@@ -6,7 +6,7 @@ Desenvolver extensões para o Qlik Sense com D3.js permite criar visualizações
 
 ### 2 - Testando a Visualização D3 no HTML
 
-Neste tutorial, vamos testar, explorar e preparar a nossa visualização D3 antes de importá-la para o Qlik Sense como uma extensão.
+Vamos testar, explorar e preparar a nossa visualização D3 antes de importá-la para o Qlik Sense como uma extensão.
 
 #### Passo a Passo:
 
@@ -56,6 +56,9 @@ Neste tutorial, vamos testar, explorar e preparar a nossa visualização D3 ante
 Agora que temos todos os nossos arquivos D3 e a área de testes pronta, no próximo passo, começaremos a importar a visualização D3 para o Qlik como uma extensão.
 
 ### 3 - Importando a Visualização D3 no Qlik Sense
+
+   <p align="center">
+   <img src= "HTML D3.jpeg">  
 
 ### 4 - Personalizando o D3 com Dados do Qlik
 
